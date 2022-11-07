@@ -10,8 +10,10 @@
 - 💬 Ask me about **Node, PHP and BI**
 
 - 📫 How to reach me **cardador.felipe@gmail.com  **
-<br>
+
 <img align="right" alt="Coding"  src="https://i.imgur.com/nGiCJqV.png">
+
+<br>
 
 
 <h3 align="left">Connect with me:</h3>
