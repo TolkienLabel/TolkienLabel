@@ -26,5 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolkienlabel&show_icons=true&locale=en" alt="tolkienlabel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tolkienlabel&" alt="tolkienlabel" /></p>
-<img align="right" alt="Coding"  src="https://i.imgur.com/nGiCJqV.png">
+<p><img align="center" src="https://i.imgur.com/nGiCJqV.png" alt="tolkienlabel" /></p>
+<img align="center" src="https://i.imgur.com/N4tuSKU.png" alt="tolkienlabel" />
 
