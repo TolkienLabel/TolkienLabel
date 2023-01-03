@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/D4D16AQG65C73LufhPA/profile-displaybackgroundimage-shrink_350_1400/0/1664580308639?e=1669852800&v=beta&t=zgP5WAVizYnDSf47dTDzrSAq4fZf_MyN-fHCugEFXB8)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Felipe Cardador</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1">
